@@ -87,6 +87,29 @@ Create a modern project gallery where each project has:
 - Short description
 - Technologies used
 - “View Project” button
+- 
+**Permanent Records**
+  - Description: A simple VB.NET application designed to automate the process of computing student grades.
+  - Tag: VB.Net
+  - Image Placeholder: 1.png
+- **Grade computation System**
+  - Description: A simple system developed to automate the process of calculating student grades accurately and efficiently.
+  - Tag: VB.Net
+  - Image Placeholder: 2.png
+- **Wireframe**
+  - Description: A wireframe for AgriTrack, a weather-adaptive farming app with a login page, dashboard, and planting guide.
+  - Tag: Powerpoint
+  - Image Placeholder: 3.png
+- **HappyStem by Carmencita**
+  - Description: A flowershop web application designed to showcase and manage floral arrangements.
+  - Tag: Web App
+  - Image Placeholder: fl1.png
+- **88 mini mart**
+  - Description: A variety store web application for managing retail inventory and sales.
+  - Tag: Web App
+  - Image Placeholder: mart1.png
+  - Link: https://88minimart.infinityfree.me/login
+
 
 Use placeholder projects if actual projects are not provided.
 
